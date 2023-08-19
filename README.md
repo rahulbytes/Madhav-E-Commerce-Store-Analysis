@@ -33,7 +33,8 @@ This dashboard is designed to provide actionable insights for decision-makers, a
 
 ## Screenshots
 
-![Dashboard Screenshot](dashboard-screenshot.png)
+<img width="588" alt="Screenshot_20230819_053933" src="https://github.com/rahulbytes/Madhav-E-Commerce-Store-Analysis/assets/142666454/cf208854-2a22-4ecd-888c-63a4e2ee5b6a">
+
 
 ## Getting Started
 
